@@ -1,10 +1,9 @@
 ---
 title: "What is Go?"
-date: 2010-08-20
-skills: []
-fields: ['Aerospace']
+date: 2024-10-21
+categories: ['Programming Language']
+tags: ['go']
 ---
-![](../images/rec.png)
 ### GoLang
 
 Go is a very good language developed by google
