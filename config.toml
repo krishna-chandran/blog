@@ -1,6 +1,6 @@
-baseURL = "https://krishna-chandran.github.io/portfolio/"
+baseURL = "https://krishna-chandran.github.io/blog/"
 
-# baseURL = "http://localhost:1313/resume"
+# baseURL = "http://localhost:1313/blog"
 languageCode = "en-us"
 title = "Krishnakumar Chandran"
 theme = 'hugo-theme-flat'
@@ -53,27 +53,9 @@ url = "https://cgit.leafee98.com/hugo-theme-flat.git"
 pre = "Theme <a href=\"https://git.leafee98.com/leafee98/hugo-theme-flat.git\">hugo-theme-flat</a>"
 
 
-[[menus.main]]
-name = "Experience"
-url = "/experience/"
-weight = 30
-
-[[menus.main]]
-name = "Education"
-url = "/education/"
-weight = 40
-
-[[menus.main]]
-name = "Projects"
-url = "/projects/"
-weight = 40
 
 [[menus.main]]
 name = "Blog"
 url = "/blog/"
 weight = 40
 
-[[menus.main]]
-url = "/about/"
-name = "About Me"
-weight = 80

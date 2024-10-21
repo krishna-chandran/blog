@@ -2,55 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Krishnakumar Chandran</title>
-    <link>http://localhost:1313/portfolio/blog/</link>
+    <link>http://localhost:1313/blog/blog/</link>
     <description>Recent content in Blogs on Krishnakumar Chandran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Aug 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Aug 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bachelor of Engineering, Rajalakshmi Engineering College</title>
-      <link>http://localhost:1313/portfolio/blog/go_tutorial/what_is_go/</link>
+      <title>What is Go?</title>
+      <link>http://localhost:1313/blog/blog/go_tutorial/what_is_go/</link>
       <pubDate>Fri, 20 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/portfolio/blog/go_tutorial/what_is_go/</guid>
+      <guid>http://localhost:1313/blog/blog/go_tutorial/what_is_go/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/rec.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;program-details&#34;&gt;Program Details &lt;a href=&#34;#program-details&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Bachelor of Engineering in Aeronautical Engineering&lt;br&gt;&lt;br&gt;
-Affliated to Anna Universiy&lt;br&gt;&lt;br&gt;
-Aug 2010 - Apr 2014&lt;br&gt;&lt;br&gt;
-Chennai, TamilNadu, India&lt;br&gt;&lt;br&gt;
-GPA: 7.6/10&lt;/p&gt;
-&lt;h3 id=&#34;courses&#34;&gt;Courses &lt;a href=&#34;#courses&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Engineering Mechanics&lt;/li&gt;
-&lt;li&gt;Mechanics of Machines&lt;/li&gt;
-&lt;li&gt;Elements of Aeronautics&lt;/li&gt;
-&lt;li&gt;Control Engineering&lt;/li&gt;
-&lt;li&gt;Aircraft Performance and Control&lt;/li&gt;
-&lt;li&gt;Fluid Mechanics&lt;/li&gt;
-&lt;li&gt;Control Engineering&lt;/li&gt;
-&lt;li&gt;Flight Dynamics&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Avionics&lt;/li&gt;
-&lt;li&gt;Aerodynamics I&lt;/li&gt;
-&lt;li&gt;Aerodynamics II&lt;/li&gt;
-&lt;li&gt;Computational Fluid Dynamics&lt;/li&gt;
-&lt;li&gt;Wind Tunnel Techniques&lt;/li&gt;
-&lt;li&gt;Solid Mechanics&lt;/li&gt;
-&lt;li&gt;Strength of Materials&lt;/li&gt;
-&lt;li&gt;Aircraft Structures I&lt;/li&gt;
-&lt;li&gt;Aircraft Structures II&lt;/li&gt;
-&lt;li&gt;Finite Element Methods&lt;/li&gt;
-&lt;li&gt;Composite Materials and Structures&lt;/li&gt;
-&lt;li&gt;Experimental Stress Analysis&lt;/li&gt;
-&lt;li&gt;Aircraft Maintenance&lt;/li&gt;
-&lt;li&gt;Helicopter Theory&lt;/li&gt;
-&lt;li&gt;Thermodynamics&lt;/li&gt;
-&lt;li&gt;Propulsion&lt;/li&gt;
-&lt;li&gt;Rockets and Missiles&lt;/li&gt;
-&lt;li&gt;Engine systems and Control&lt;/li&gt;
-&lt;li&gt;Aircraft Systems and Instruments&lt;/li&gt;
-&lt;li&gt;Vibrations and Elements of Elasticity&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;h3 id=&#34;golang&#34;&gt;GoLang &lt;a href=&#34;#golang&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Go is a very good language developed by google&lt;/p&gt;
+</description>
     </item>
     
   </channel>
