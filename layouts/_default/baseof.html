@@ -12,9 +12,9 @@
             </div>
             <div class="side">
                 {{ partial "profile.html" . }}
-                <!-- {{ range .Site.Sections }}
+                {{ range .Site.Sections }}
                     {{ partial "side-recent.html" . }}
-                {{ end }} -->
+                {{ end }}
                 {{ partial "side-categories.html" . }}
                 {{ partial "side-tags.html" . }}
             </div>
