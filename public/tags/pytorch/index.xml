@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pytorch on Krishnakumar Chandran</title>
+    <link>http://localhost:1313/portfolio/tags/pytorch/</link>
+    <description>Recent content in Pytorch on Krishnakumar Chandran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Image captioning using CNN and LSTM</title>
+      <link>http://localhost:1313/portfolio/projects/image-captioning-cnn-lstm/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/projects/image-captioning-cnn-lstm/</guid>
+      <description>&lt;h3 id=&#34;highlights&#34;&gt;Highlights &lt;a href=&#34;#highlights&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Image captioning is achieved by using Convolutional Neural Networks and Long Short Time Memory model&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement &lt;a href=&#34;#problem-statement&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Aim is to create image captioning system using Deep learning and computer vision methods&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation &lt;a href=&#34;#ideation&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology &lt;a href=&#34;#solution-methodology&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion &lt;a href=&#34;#results-and-conclusion&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

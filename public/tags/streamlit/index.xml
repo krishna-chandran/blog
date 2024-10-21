@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Streamlit on Krishnakumar Chandran</title>
+    <link>http://localhost:1313/portfolio/tags/streamlit/</link>
+    <description>Recent content in Streamlit on Krishnakumar Chandran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/tags/streamlit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development of Key Performance Indicator report for UPS demo run</title>
+      <link>http://localhost:1313/portfolio/projects/ups-kpi-report-demo/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/projects/ups-kpi-report-demo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights &lt;a href=&#34;#highlights&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Developed KPI report dashboard for UPS demo&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logstash on Krishnakumar Chandran</title>
+    <link>http://localhost:1313/portfolio/tags/logstash/</link>
+    <description>Recent content in Logstash on Krishnakumar Chandran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/tags/logstash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autonomous vehicle end-to-end data management platform</title>
+      <link>http://localhost:1313/portfolio/projects/eitri-av-data-management-platform/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/projects/eitri-av-data-management-platform/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights &lt;a href=&#34;#highlights&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Designed and Developed end-to-end robotics data management platform&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement &lt;a href=&#34;#problem-statement&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Aim is to develop an end-to-end robotics data management platform&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation &lt;a href=&#34;#ideation&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology &lt;a href=&#34;#solution-methodology&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion &lt;a href=&#34;#results-and-conclusion&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deployment of distributed web application in Cloud Administration</title>
+      <link>http://localhost:1313/portfolio/projects/distributed-app-cloud-deployment/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/projects/distributed-app-cloud-deployment/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights &lt;a href=&#34;#highlights&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Developed Ansible scripts to validate Linux VM capacity and installation prerequisites&lt;/li&gt;
+&lt;li&gt;Provisioned Linux VM in Cloud environment using automated scripts&lt;/li&gt;
+&lt;li&gt;Performed post-provisioning activities such as IAM, LDAP integration, updating security roles, filesystem creation and Linux patching&lt;/li&gt;
+&lt;li&gt;Used Ansible to install prerequistes and infra components in all 12 VMs including JAVA JRE, Postgresql, Hadoop ecosystems and Neo4j database&lt;/li&gt;
+&lt;li&gt;Used Ansible to install java application, creation of services, update configurations and installation of Elasticsearch, Logstash and Kibana&lt;/li&gt;
+&lt;li&gt;Performed deployment validation checks using Ansible powered tool called Enigma&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement &lt;a href=&#34;#problem-statement&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Aim is to install ignio with High Availability Architecture in distributed cloud environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation &lt;a href=&#34;#ideation&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology &lt;a href=&#34;#solution-methodology&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion &lt;a href=&#34;#results-and-conclusion&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Alert automation and self-healing</title>
+      <link>http://localhost:1313/portfolio/projects/ignio-alert-automation/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/projects/ignio-alert-automation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights &lt;a href=&#34;#highlights&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Reduced duplicate alerts by 80%&lt;/li&gt;
+&lt;li&gt;Smart handling of alerts by using Probable cause analysis to find the root cause and fix them, ignoring other dependant tasks&lt;/li&gt;
+&lt;li&gt;Created adapters to integrate ignio with ServiceNow, Solarwinds and AppDynamics using REST API&lt;/li&gt;
+&lt;li&gt;Created dynamic profiling of systems, VMs, Applications, Databases, Network and storage entities&lt;/li&gt;
+&lt;li&gt;Using dynamic profiles, predicting if the alert is valid for the given conditions&lt;/li&gt;
+&lt;li&gt;Auto verify and apply self-healing scripts to address those alerts&lt;/li&gt;
+&lt;li&gt;Automated more than 90% of repeated IT Alert and hence enabling technical team to work on solutioning rather than monitoring and troubleshooting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement &lt;a href=&#34;#problem-statement&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Aim is to reduce workload of IT Operations and Monitoring team, by reducing duplicate tickets, reduce troubleshooting and automation using AI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation &lt;a href=&#34;#ideation&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology &lt;a href=&#34;#solution-methodology&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion &lt;a href=&#34;#results-and-conclusion&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Development of Key Performance Indicator report for UPS demo run</title>
+      <link>http://localhost:1313/portfolio/projects/ups-kpi-report-demo/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/projects/ups-kpi-report-demo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/thordrive-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights &lt;a href=&#34;#highlights&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Developed KPI report dashboard for UPS demo&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Log monitoring and Dashboard creation using ELK stack</title>
+      <link>http://localhost:1313/portfolio/projects/log-monitoring-elk/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/projects/log-monitoring-elk/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights &lt;a href=&#34;#highlights&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Developed data pipelines for log data streams using filebeat and metricbeat&lt;/li&gt;
+&lt;li&gt;Developed grok filters in logstash for pattern matching and log filtering&lt;/li&gt;
+&lt;li&gt;Collected metrics and analytics are displayed in the dashboard created in&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement &lt;a href=&#34;#problem-statement&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Aim is to reduce workload of IT Operations and Monitoring team, by reducing duplicate tickets, reduce troubleshooting and automation using AI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation &lt;a href=&#34;#ideation&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology &lt;a href=&#34;#solution-methodology&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion &lt;a href=&#34;#results-and-conclusion&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

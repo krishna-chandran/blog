@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solarwinds on Krishnakumar Chandran</title>
+    <link>http://localhost:1313/portfolio/tags/solarwinds/</link>
+    <description>Recent content in Solarwinds on Krishnakumar Chandran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/tags/solarwinds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alert automation and self-healing</title>
+      <link>http://localhost:1313/portfolio/projects/ignio-alert-automation/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/projects/ignio-alert-automation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights &lt;a href=&#34;#highlights&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Reduced duplicate alerts by 80%&lt;/li&gt;
+&lt;li&gt;Smart handling of alerts by using Probable cause analysis to find the root cause and fix them, ignoring other dependant tasks&lt;/li&gt;
+&lt;li&gt;Created adapters to integrate ignio with ServiceNow, Solarwinds and AppDynamics using REST API&lt;/li&gt;
+&lt;li&gt;Created dynamic profiling of systems, VMs, Applications, Databases, Network and storage entities&lt;/li&gt;
+&lt;li&gt;Using dynamic profiles, predicting if the alert is valid for the given conditions&lt;/li&gt;
+&lt;li&gt;Auto verify and apply self-healing scripts to address those alerts&lt;/li&gt;
+&lt;li&gt;Automated more than 90% of repeated IT Alert and hence enabling technical team to work on solutioning rather than monitoring and troubleshooting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement &lt;a href=&#34;#problem-statement&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Aim is to reduce workload of IT Operations and Monitoring team, by reducing duplicate tickets, reduce troubleshooting and automation using AI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ideation&#34;&gt;Ideation &lt;a href=&#34;#ideation&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology &lt;a href=&#34;#solution-methodology&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion &lt;a href=&#34;#results-and-conclusion&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

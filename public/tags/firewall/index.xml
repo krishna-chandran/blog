@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firewall on Krishnakumar Chandran</title>
+    <link>http://localhost:1313/portfolio/tags/firewall/</link>
+    <description>Recent content in Firewall on Krishnakumar Chandran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Dec 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/tags/firewall/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Application Development : Network Automation</title>
+      <link>http://localhost:1313/portfolio/projects/app-development-network-automation/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/projects/app-development-network-automation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/tcs-logo.png&#34; alt=&#34;TCS Logo&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights &lt;a href=&#34;#highlights&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Designed and developed an end-to-end software application for self-managing inventory for a pharmaceutical client.&lt;/p&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement &lt;a href=&#34;#problem-statement&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;h3 id=&#34;ideation&#34;&gt;Ideation &lt;a href=&#34;#ideation&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;h3 id=&#34;solution-methodology&#34;&gt;Solution Methodology &lt;a href=&#34;#solution-methodology&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;h3 id=&#34;results-and-conclusion&#34;&gt;Results and Conclusion &lt;a href=&#34;#results-and-conclusion&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
